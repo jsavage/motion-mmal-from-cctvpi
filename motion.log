@@ -1,0 +1,74 @@
+[-1242463392] [NTC] [ALL] [Jul 24 16:25:16] motion_startup: Using log type (ALL) log level (WRN)
+[1] [ALR] [VID] [Jul 24 16:25:16] mmalcam_start: MMAL Camera thread starting... for camera (vc.ril.camera) of 640 x 480 at 2 fps
+[1] [ALR] [VID] [Jul 24 16:25:16] mmalcam_start: MMAL Camera using video capture
+[1] [ALR] [VID] [Jul 24 23:16:20] MMAL Camera cleanup
+[-1243090080] [NTC] [ALL] [Jul 24 23:31:08] motion_startup: Using log type (ALL) log level (WRN)
+[1] [ALR] [VID] [Jul 24 23:31:08] mmalcam_start: MMAL Camera thread starting... for camera (vc.ril.camera) of 640 x 480 at 2 fps
+[1] [ALR] [VID] [Jul 24 23:31:08] mmalcam_start: MMAL Camera using video capture
+[-1242475680] [NTC] [ALL] [Jul 24 23:33:58] motion_startup: Using log type (ALL) log level (WRN)
+[1] [ALR] [VID] [Jul 24 23:33:58] mmalcam_start: MMAL Camera thread starting... for camera (vc.ril.camera) of 640 x 480 at 2 fps
+[1] [ALR] [VID] [Jul 24 23:33:58] mmalcam_start: MMAL Camera using still capture
+[0] [ERR] [STR] [Jul 24 23:33:58] httpd_run: motion-httpd failed bind() interface 0.0.0.0 / port 8080, retrying: 
+[0] [ERR] [STR] [Jul 24 23:33:58] httpd_run: motion-httpd socket failed interface 0.0.0.0 / port 8080, retrying: 
+[0] [CRT] [STR] [Jul 24 23:33:58] httpd_run: motion-httpd ERROR bind() [interface 0.0.0.0 port 8080]: 
+[1] [ERR] [VID] [Jul 24 23:33:58] camera component couldn't be enabled
+[1] [ALR] [VID] [Jul 24 23:33:58] MMAL Camera cleanup
+[1] [ALR] [VID] [Jul 24 23:42:40] MMAL Camera cleanup
+[0] [ERR] [ALL] [Jul 24 23:42:41] motion_remove_pid: Error removing pid file: 
+[-1242852512] [NTC] [ALL] [Jul 24 23:42:51] motion_startup: Using log type (ALL) log level (WRN)
+[1] [ALR] [VID] [Jul 24 23:42:51] mmalcam_start: MMAL Camera thread starting... for camera (vc.ril.camera) of 640 x 480 at 2 fps
+[1] [ALR] [VID] [Jul 24 23:42:51] mmalcam_start: MMAL Camera using still capture
+[1] [ALR] [VID] [Jul 24 23:44:09] MMAL Camera cleanup
+[0] [ERR] [ALL] [Jul 24 23:44:12] motion_remove_pid: Error removing pid file: 
+[-1242528928] [NTC] [ALL] [Jul 24 23:44:19] motion_startup: Using log type (ALL) log level (WRN)
+[1] [ALR] [VID] [Jul 24 23:44:19] mmalcam_start: MMAL Camera thread starting... for camera (vc.ril.camera) of 640 x 480 at 2 fps
+[1] [ALR] [VID] [Jul 24 23:44:19] mmalcam_start: MMAL Camera using still capture
+[0] [ERR] [ALL] [Jul 24 23:57:05] main: Thread 1 - Watchdog timeout, trying to do a graceful restart
+[0] [ERR] [ALL] [Jul 24 23:58:05] main: Thread 1 - Watchdog timeout, did NOT restart graceful,killing it!
+[0] [ALR] [VID] [Jul 24 23:58:05] MMAL Camera cleanup
+[-1243081888] [NTC] [ALL] [Jul 24 23:58:56] motion_startup: Using log type (ALL) log level (WRN)
+[1] [ALR] [VID] [Jul 24 23:58:56] mmalcam_start: MMAL Camera thread starting... for camera (vc.ril.camera) of 640 x 480 at 2 fps
+[1] [ALR] [VID] [Jul 24 23:58:56] mmalcam_start: MMAL Camera using still capture
+[1] [ERR] [VID] [Jul 24 23:58:56] camera component couldn't be enabled
+[1] [ALR] [VID] [Jul 24 23:58:56] MMAL Camera cleanup
+[-1242676384] [NTC] [ALL] [Jul 25 00:04:17] motion_startup: Using log type (ALL) log level (WRN)
+[1] [ALR] [VID] [Jul 25 00:04:17] mmalcam_start: MMAL Camera thread starting... for camera (vc.ril.camera) of 640 x 480 at 2 fps
+[1] [ALR] [VID] [Jul 25 00:04:17] mmalcam_start: MMAL Camera using still capture
+[1] [ALR] [VID] [Jul 25 10:05:05] MMAL Camera cleanup
+[0] [WRN] [ALL] [Jul 25 10:05:07] main: Restarting motion.
+[0] [WRN] [ALL] [Jul 25 10:05:12] main: Motion restarted
+[1] [ALR] [VID] [Jul 25 10:05:12] mmalcam_start: MMAL Camera thread starting... for camera (vc.ril.camera) of 640 x 480 at 2 fps
+[1] [ALR] [VID] [Jul 25 10:05:12] mmalcam_start: MMAL Camera using still capture
+[0] [ERR] [ALL] [Jul 27 08:25:57] main: Thread 1 - Watchdog timeout, trying to do a graceful restart
+[0] [ERR] [ALL] [Jul 27 08:26:57] main: Thread 1 - Watchdog timeout, did NOT restart graceful,killing it!
+[0] [ALR] [VID] [Jul 27 08:26:57] MMAL Camera cleanup
+[-1242614944] [NTC] [ALL] [Aug 02 23:27:24] motion_startup: Using log type (ALL) log level (WRN)
+[1] [ALR] [VID] [Aug 02 23:27:24] mmalcam_start: MMAL Camera thread starting... for camera (vc.ril.camera) of 640 x 480 at 2 fps
+[1] [ALR] [VID] [Aug 02 23:27:24] mmalcam_start: MMAL Camera using still capture
+[1] [ERR] [VID] [Aug 02 23:27:24] camera component couldn't be enabled
+[1] [ALR] [VID] [Aug 02 23:27:24] MMAL Camera cleanup
+[-1242737824] [NTC] [ALL] [Aug 03 21:51:33] motion_startup: Using log type (ALL) log level (WRN)
+[1] [ALR] [VID] [Aug 03 21:51:33] mmalcam_start: MMAL Camera thread starting... for camera (vc.ril.camera) of 640 x 480 at 2 fps
+[1] [ALR] [VID] [Aug 03 21:51:33] mmalcam_start: MMAL Camera using still capture
+[1] [ALR] [VID] [Aug 03 23:11:26] MMAL Camera cleanup
+[-1242553504] [NTC] [ALL] [Aug 04 00:23:28] motion_startup: Using log type (ALL) log level (WRN)
+[1] [ALR] [VID] [Aug 04 00:23:28] mmalcam_start: MMAL Camera thread starting... for camera (vc.ril.camera) of 640 x 480 at 2 fps
+[1] [ALR] [VID] [Aug 04 00:23:28] mmalcam_start: MMAL Camera using still capture
+[1] [ALR] [VID] [Aug 04 10:24:17] MMAL Camera cleanup
+[0] [WRN] [ALL] [Aug 04 10:24:21] main: Restarting motion.
+[0] [WRN] [ALL] [Aug 04 10:24:26] main: Motion restarted
+[1] [ALR] [VID] [Aug 04 10:24:26] mmalcam_start: MMAL Camera thread starting... for camera (vc.ril.camera) of 640 x 480 at 2 fps
+[1] [ALR] [VID] [Aug 04 10:24:26] mmalcam_start: MMAL Camera using still capture
+[-1242343776] [NTC] [ALL] [Aug 24 23:31:37] motion_startup: Using log type (ALL) log level (WRN)
+[1] [ALR] [VID] [Aug 24 23:31:37] mmalcam_start: MMAL Camera thread starting... for camera (vc.ril.camera) of 320 x 240 at 2 fps
+[1] [ALR] [VID] [Aug 24 23:31:37] mmalcam_start: MMAL Camera using still capture
+[0] [ERR] [STR] [Aug 24 23:33:55] read_client: motion-httpd First Read Error: 
+[0] [ERR] [STR] [Aug 25 07:29:47] read_client: motion-httpd First Read Error: 
+[0] [ERR] [STR] [Aug 25 07:30:30] read_client: motion-httpd First Read Error: 
+[0] [ERR] [STR] [Aug 25 07:36:02] read_client: motion-httpd First Read Error: 
+[1] [ALR] [VID] [Aug 25 07:38:19] MMAL Camera cleanup
+[-1242872968] [NTC] [ALL] [Apr 30 20:31:47] motion_startup: Using log type (ALL) log level (WRN)
+[1] [ALR] [VID] [Apr 30 20:31:48] mmalcam_start: MMAL Camera thread starting... for camera (vc.ril.camera) of 320 x 240 at 2 fps
+[1] [ALR] [VID] [Apr 30 20:31:48] mmalcam_start: MMAL Camera using still capture
+[1] [ALR] [VID] [Apr 30 20:34:07] MMAL Camera cleanup
+[0] [ERR] [ALL] [Apr 30 20:34:09] motion_remove_pid: Error removing pid file: 
